@@ -1,4 +1,4 @@
-### [Back2Home](https://github.com/CodingWallah/ArraysCodingQuestions/main/README.md) | [Go2Video](#)
+### [Back2Home](https://github.com/CodingWallah/Arrays-DSA-Coding-Questions) | [Go2Video](#)
 
 1) min heap = uses for largest ?
 
