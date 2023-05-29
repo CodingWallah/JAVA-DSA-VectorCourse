@@ -13,7 +13,7 @@ Find duplicates in an array
 Remove all occurrences of Given Number | [Solve](https://leetcode.com/problems/remove-element/)
 Remove Duplicates from Sorted Array | [Solve](https://leetcode.com/problems/remove-duplicates-from-sorted-array/)
 Move all zeroes to end of array
-Sort an array of 0s, 1s and 2s | [Solve](https://leetcode.com/problems/sort-colors/submissions/) , [Solve](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1/) | [Code](#) | [Video](#)
+Sort an array of 0s, 1s and 2s | [Solve](https://leetcode.com/problems/sort-colors/submissions/) , [Solve](https://practice.geeksforgeeks.org/problems/sort-an-array-of-0s-1s-and-2s4231/1/) | [Code](https://github.com/CodingWallah/Arrays-DSA-Coding-Questions/blob/main/Sort%20Array%200-1-2.md) | [Video](#)
 Intersection of two arrays
 Reverse an array
 Swapping Elements in an array
