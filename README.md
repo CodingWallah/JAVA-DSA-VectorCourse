@@ -24,7 +24,7 @@ Find Min and Max in an Array
 | ------------- | :-------------: | :-------------: | :---------: |:---------: |
 Valid Moutain Array | [Solve](https://leetcode.com/problems/valid-mountain-array/) | [Code](#) | [Video](https://youtu.be/tVDTjm_fYbQ) | 2 pointers
 Majority Element | [Solve](https://leetcode.com/problems/majority-element/) | [Code](#) | [Video](https://www.youtube.com/watch?v=cLE1J34pYUo) | Sorting / or Boyer-Moore Voting Algorithm
-Kth largest/smallest element in an array | [Solve](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Code](#) | [Video](#) | soritng / priority q
+Kth largest/smallest element in an array | [Solve](https://leetcode.com/problems/kth-largest-element-in-an-array/) | [Code](https://github.com/CodingWallah/Arrays-DSA-Coding-Questions/blob/main/kth-largest-smallest.md) | [Video](#) | soritng / priority q
 Trapping Rain Water
 Coin Change
 Stock span problem
