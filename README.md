@@ -43,11 +43,7 @@ Next Smallest Palindrome|[GeeksForGeeks](https://practice.geeksforgeeks.org/prob
 
 ---
 
-<<<<<<< Updated upstream
 <div align="center">
-=======
-<p style="text-align:center">
->>>>>>> Stashed changes
 
 <a href="https://discord.gg/YvBacAxu">
   <img src="https://dcbadge.vercel.app/api/server/YvBacAxu?theme=discord"  />
@@ -63,11 +59,7 @@ Next Smallest Palindrome|[GeeksForGeeks](https://practice.geeksforgeeks.org/prob
   <img src="https://img.shields.io/youtube/channel/subscribers/UC2EF2l4DhSG3PVBXVyQhHfA?label=Coding%20Wallah%20Sir&logo=youtube&logoColor=f00&style=for-the-badge" />  
 </a>
 
-<<<<<<< Updated upstream
 </div>
-=======
-</p>
->>>>>>> Stashed changes
 
 <!--
 
