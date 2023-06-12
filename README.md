@@ -39,3 +39,34 @@ Kadane's Algorithm|[Solve](https://Solve.com/problems/maximum-subarray)
 -|-|-|-|-
 Merge Without Extra Space|[GeeksForGeeks](https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays-1587115620/1)
 Next Smallest Palindrome|[GeeksForGeeks](https://practice.geeksforgeeks.org/problems/next-smallest-palindrome4740/1?utm_source=geeksforgeeks)
+
+
+---
+
+<center>
+
+<a href="https://discord.gg/YvBacAxu">
+  <img src="https://dcbadge.vercel.app/api/server/YvBacAxu?theme=discord"  />
+</a>
+
+<br />
+
+<a href="https://www.youtube.com/@CodingWallah-Family/streams">
+  <img src="https://img.shields.io/youtube/channel/subscribers/UC7HdeXvGFw962sWv31mjEqA?label=Coding%20Wallah%20-%20family&logo=youtube&logoColor=ff0000&style=for-the-badge" />
+</a>
+
+<a href="https://www.youtube.com/@CodingWallahSir/videos">
+  <img src="https://img.shields.io/youtube/channel/subscribers/UC2EF2l4DhSG3PVBXVyQhHfA?label=Coding%20Wallah%20Sir&logo=youtube&logoColor=f00&style=for-the-badge" />  
+</a>
+
+</center>
+
+<!--
+
+![Discord Server](https://dcbadge.vercel.app/api/server/YvBacAxu?theme=discord)
+
+![Coding Wallah - Family](https://img.shields.io/youtube/channel/subscribers/UC7HdeXvGFw962sWv31mjEqA?label=Coding%20Wallah%20-%20family&logo=youtube&logoColor=ff0000&style=for-the-badge)
+
+![Coding Wallah Sir](https://img.shields.io/youtube/channel/subscribers/UC2EF2l4DhSG3PVBXVyQhHfA?label=Coding%20Wallah%20Sir&logo=youtube&logoColor=f00&style=for-the-badge)
+
+-->
