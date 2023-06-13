@@ -13,6 +13,7 @@
 
 ### Solution 1 : Using Sorting
 #### Time Complexity: `O(n*logn)`
+`Not Recommended`
 ```java
 class Solution {
     public int findKthLargest(int[] nums, int k) {
@@ -26,6 +27,20 @@ class Solution {
 
 ### Solution 2: Min Heap Approach 
 #### Time Complexity: `O(n + n*logk)`
+
+`Concise Implementation`
+
+```java
+PriorityQueue<Integer> pq = new PriorityQueue<Integer>();  
+  for(int i : nums){
+    pq.add(i);
+    if(pq.size()>k){
+        pq.remove();
+    }
+  }
+return pq.remove();
+```
+
 `Best Solution`
 ```java
 PriorityQueue<Integer> minheap = new PriorityQueue<Integer>();
@@ -41,23 +56,24 @@ PriorityQueue<Integer> minheap = new PriorityQueue<Integer>();
 return minheap.peek();
 ```
 
-`Concise Implementation`
-
-```java
-PriorityQueue<Integer> pq = new PriorityQueue<Integer>();  
-  for(int i : nums){
-    pq.add(i);
-    if(pq.size()>k){
-        pq.remove();
-    }
-  }
-return pq.remove();
-```
 
 ## 
 
 ### Solution 3: Max Heap Approach
-#### Time Complexity: `O(n + n*logk)`
+#### Time Complexity: `O(n + n*logk)` 
+
+`Consice Implementation`
+```java
+PriorityQueue<Integer> pq = new PriorityQueue<Integer>(Collections.reverseOrder());   
+  for(int i : nums){
+    pq.add(i);
+      
+  for(int i=1;i<k;i++)
+    pq.poll();
+  
+return pq.peek();            
+```
+
 `Best Solution`
 ```java
 PriorityQueue<Integer> maxHeap = new PriorityQueue<Integer>(Collections.reverseOrder());   
@@ -71,16 +87,4 @@ PriorityQueue<Integer> maxHeap = new PriorityQueue<Integer>(Collections.reverseO
     }
   }
 return maxHeap.peek();
-```
-
-`Consice Implementation`
-```java
-PriorityQueue<Integer> pq = new PriorityQueue<Integer>(Collections.reverseOrder());   
-  for(int i : nums){
-    pq.add(i);
-      
-  for(int i=1;i<k;i++)
-    pq.poll();
-  
-return pq.peek();            
 ```

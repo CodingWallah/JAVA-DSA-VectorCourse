@@ -1,48 +1,19 @@
 ### [Back2Home](https://github.com/CodingWallah/Arrays-DSA-Coding-Questions) | [Go2Video](#)
 
+##
 
+### Solution 1 `Not Recommended`
+#### Time Complexity: `O(n*logn)`
 
-### Solution 1 `Best`
-#### Time Complexity: `O(n)`
-#### Space Complexity: `O(1)`
 ```java
-
 class Solution {
   public void sortColors(int[] nums) {
-    int start = 0;
-    int end = nums.length - 1;
-    int ptr = 0, temp = 0;
-
-    while (ptr <= end) {
-      switch (nums[ptr]) {
-        case 0: {
-          temp = nums[start];
-          nums[start] = nums[ptr];
-          nums[ptr] = temp;
-          start++;
-          ptr++;
-          break;
-        }
-        case 1: {
-          ptr++;
-          break;
-        }
-        case 2: {
-          temp = nums[ptr];
-          nums[ptr] = nums[end];
-          nums[end] = temp;
-          end--;
-          break; 
-        }
-      }
-    }
+     Arrays.sort(nums);
   }
 }
 ```
 
-##
-
-### Solution 2
+### Solution 2 `Alternative`
 #### Time Complexity: `O(n)`
 #### Space Complexity: `O(1)`
 ```java
@@ -77,15 +48,43 @@ class Solution {
     }
   }
 }
-
 ```
-### Solution 3 `Not Recommended`
-#### Time Complexity: `O(n*logn)`
+
+### Solution 3 `Best`
+#### Time Complexity: `O(n)`
+#### Space Complexity: `O(1)`
 
 ```java
+
 class Solution {
   public void sortColors(int[] nums) {
-     Arrays.sort(nums);
+    int start = 0;
+    int end = nums.length - 1;
+    int ptr = 0, temp = 0;
+
+    while (ptr <= end) {
+      switch (nums[ptr]) {
+        case 0: {
+          temp = nums[start];
+          nums[start] = nums[ptr];
+          nums[ptr] = temp;
+          start++;
+          ptr++;
+          break;
+        }
+        case 1: {
+          ptr++;
+          break;
+        }
+        case 2: {
+          temp = nums[ptr];
+          nums[ptr] = nums[end];
+          nums[end] = temp;
+          end--;
+          break; 
+        }
+      }
+    }
   }
 }
 ```
