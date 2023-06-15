@@ -5,7 +5,7 @@ These questions test your ability to apply various techniques such as hashing, s
 ## Foundation Questions ❤️
 | Array Questions  | Practice Link | Code Solutions | Video Solutions | HINT
 -|-|-|-|-
-Wave Array| [Leetcode](https://practice.geeksforgeeks.org/problems/wave-array-1587115621/1?utm_source=geeksforgeeks) |
+Wave Array| [GeeksForGeeks](https://practice.geeksforgeeks.org/problems/wave-array-1587115621/1?utm_source=geeksforgeeks) |
 Subarray with given sum| [Leetcode](https://Leetcode.com/problems/subarray-sum-equals-k/) |
 Missing number in array| [Leetcode](https://Leetcode.com/problems/missing-number/) |
 Rotate Array | [Leetcode](https://Leetcode.com/problems/rotate-array/) |  | [Video](https://youtu.be/0OTPqrEd74g) 
