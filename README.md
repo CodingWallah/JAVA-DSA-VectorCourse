@@ -1,72 +1,31 @@
-# Arrays-DSA-Coding-Questions 🚀
-Arrays are one of the most fundamental and widely used data structures in programming.
-These questions test your ability to apply various techniques such as hashing, sorting, binary search, two pointers, sliding window, divide and conquer, dynamic programming, etc. 
+# <pre>                  JAVA-DSA-Vector-Course 🔥 </pre>
+## Free live lectures available for our course for those who can't afford it. Paid members receive additional benefits listed on our Discord server.
 
-## Foundation Questions ❤️
-| Array Questions  | Practice Link | Code Solutions | Video Solutions | HINT
--|-|-|-|-
-Wave Array| [GeeksForGeeks](https://practice.geeksforgeeks.org/problems/wave-array-1587115621/1?utm_source=geeksforgeeks) |
-Subarray with given sum| [Leetcode](https://Leetcode.com/problems/subarray-sum-equals-k/) |
-Missing number in array| [Leetcode](https://Leetcode.com/problems/missing-number/) |
-Rotate Array | [Leetcode](https://Leetcode.com/problems/rotate-array/) |  | [Video](https://youtu.be/0OTPqrEd74g) 
-Find duplicates in an array| [Leetcode](https://Leetcode.com/problems/find-all-duplicates-in-an-array/) | 
-Remove all occurrences of Given Number | [Leetcode](https://Leetcode.com/problems/remove-element/)
-Remove Duplicates from Sorted Array | [Leetcode](https://Leetcode.com/problems/remove-duplicates-from-sorted-array/)
-Move all zeroes to end of array| [Leetcode](https://Leetcode.com/problems/move-zeroes/)
-Sort an array of 0s, 1s and 2s | [Leetcode](https://Leetcode.com/problems/sort-colors/submissions/) | 
-Intersection of two arrays| [Leetcode](https://Leetcode.com/problems/intersection-of-two-arrays/)
-Reverse an array| [Leetcode](https://Leetcode.com/problems/reverse-string/)
-Swapping Elements in an array|
-Remove Min and Max in an Array| [Leetcode](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/)
+- 🧑🏼‍💻 Do you want to master data structures and algorithms in Java and ace your coding interviews ❓
+- 👨🏼‍🏫 Do you want to learn from experienced instructor with live coding sessions and help you solve challenging problems❓
+- ❤️ Do you want to join a community of learners who will support you and Motivate you along the way ❓
 
-## Medium Questions ❤️‍🔥
-| Array Questions  | Practice Link | Code Solutions | Video Solutions | HINT
-| ------------- | :-------------: | :-------------: | :---------: |:---------: |
-Valid Moutain Array | [Leetcode](https://Leetcode.com/problems/valid-mountain-array/) | [Code](#) | [Video](https://youtu.be/tVDTjm_fYbQ) | 2 pointers
-Majority Element | [Leetcode](https://Leetcode.com/problems/majority-element/) | [Code](#) | [Video](https://www.youtube.com/watch?v=cLE1J34pYUo) | Sorting / or Boyer-Moore Voting Algorithm
-Kth largest/smallest element in an array | [Leetcode](https://Leetcode.com/problems/kth-largest-element-in-an-array/) | [Code](https://github.com/CodingWallah/Arrays-DSA-Coding-Questions/blob/main/kth-largest-smallest.md) | [Video](#) | soritng / priority q
-Trapping Rain Water|[Leetcode](https://Leetcode.com/problems/trapping-rain-water/)
-Coin Change|[Leetcode](https://Leetcode.com/problems/coin-change/)
-Stock span problem|[Leetcode](https://Leetcode.com/problems/online-stock-span/)
-Merge k Sorted Arrays|[Leetcode](https://Leetcode.com/problems/merge-k-sorted-lists/)
-Next Permutation |[Leetcode](https://Leetcode.com/problems/next-permutation) | [Code](#) | [Video](#) | 2 poniters 
-Kadane's Algorithm|[Leetcode](https://Leetcode.com/problems/maximum-subarray)
+### If your ans is YES to any of above questions, 👉🏼 then JAVA DSA Vector Course for you ❤️
 
+<pre>
+JAVA DSA Vector Live is an online Interactive live course 👨🏼‍🏫 with provinding Real-LIFE offline Classrom Feeling ❤️ 
+- It teaches you the fundamentals of data structures and algorithms in Java with Real-life EXAMPLES from ZERO Java Knowledge. 
+- You will learn how to implement and use various data structures such as arrays, linked lists, stacks, queues, trees, graphs, hash tables, and more. 
+- You will also learn how to apply common algorithms such as sorting, searching, recursion, greedy methods, backtracking, and more.
+- You will also learn how to analyze the time and space complexity of your code and optimize it for performance and efficiency.
+</pre>
 
+### But that’s not all! JAVA DSA Vector Course is not just a collection of videos and exercises. It is a live and interactive learning experience that will keep you engaged and motivated throughout the course. You will have access to:
 
-## Hard Questions 💔
-| Array Questions  | Practice Link | Code Solutions | Video Solutions | HINT
--|-|-|-|-
-Merge Without Extra Space|[GeeksForGeeks](https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays-1587115620/1)
-Next Smallest Palindrome|[GeeksForGeeks](https://practice.geeksforgeeks.org/problems/next-smallest-palindrome4740/1?utm_source=geeksforgeeks)
+<pre>
+- Live coding sessions with instructors who will explain the concepts and demonstrate the code in real time
+- Live Q&A sessions with instructors who will answer your questions and clarify your doubts
+- Live practice sessions with instructors who will help you solve problems and give you feedback on your code
+- Live quizzes and assignments that will test your knowledge and skills
+- Live projects that will challenge you to apply what you learned and build something useful
+- Live community events that will connect you with other learners and instructors
+</pre>
 
+👋🏼 By the end of this course, you will have a solid foundation of data structures and algorithms in Java. You will be able to confidently write code that is clear, concise, and efficient. You will be able to solve complex problems that require logical thinking and creativity. You will be ready to ace your coding interviews and land your dream job as a software engineer.
 
----
-
-<div align="center">
-
-<a href="https://discord.gg/YvBacAxu">
-  <img src="https://dcbadge.vercel.app/api/server/YvBacAxu?theme=discord"  />
-</a>
-
-<br />
-
-<a href="https://www.youtube.com/@CodingWallah-Family/streams">
-  <img src="https://img.shields.io/youtube/channel/subscribers/UC7HdeXvGFw962sWv31mjEqA?label=Coding%20Wallah%20-%20family&logo=youtube&logoColor=ff0000&style=for-the-badge" />
-</a>
-
-<a href="https://www.youtube.com/@CodingWallahSir/videos">
-  <img src="https://img.shields.io/youtube/channel/subscribers/UC2EF2l4DhSG3PVBXVyQhHfA?label=Coding%20Wallah%20Sir&logo=youtube&logoColor=f00&style=for-the-badge" />  
-</a>
-
-</div>
-
-<!--
-
-![Discord Server](https://dcbadge.vercel.app/api/server/YvBacAxu?theme=discord)
-
-![Coding Wallah - Family](https://img.shields.io/youtube/channel/subscribers/UC7HdeXvGFw962sWv31mjEqA?label=Coding%20Wallah%20-%20family&logo=youtube&logoColor=ff0000&style=for-the-badge)
-
-![Coding Wallah Sir](https://img.shields.io/youtube/channel/subscribers/UC2EF2l4DhSG3PVBXVyQhHfA?label=Coding%20Wallah%20Sir&logo=youtube&logoColor=f00&style=for-the-badge)
-
--->
+### <pre>So what are you waiting for ❓- Join this Revolutionary Journey Now, I am really waiting of you ❤️</pre>
