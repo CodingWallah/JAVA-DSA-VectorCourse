@@ -7,6 +7,13 @@
 
 ### If your ans is YES to any of above questions, 👉🏼 then JAVA DSA Vector Course for you ❤️
 
+## <pre>      Topic List </pre>
+| Topics | Video Link | Questions
+ -|-|-
+Patterns | [Video](https://www.youtube.com/live/-Pq1XjcEgw8?feature=share) | [Questions](https://github.com/CodingWallah/JAVA-DSA-VectorCourse/blob/main/PatternQuestions.md)
+Arrays | [Video](https://www.youtube.com/live/tjkXeEN8yFc?feature=share) | [Questions](https://github.com/CodingWallah/JAVA-DSA-VectorCourse/blob/main/ArrayQuestions.md)
+
+
 <pre>
 JAVA DSA Vector Live is an online Interactive live course 👨🏼‍🏫 with provinding Real-LIFE offline Classrom Feeling ❤️ 
 - It teaches you the fundamentals of data structures and algorithms in Java with Real-life EXAMPLES from ZERO Java Knowledge. 
