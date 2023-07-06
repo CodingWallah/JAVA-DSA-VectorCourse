@@ -1,7 +1,7 @@
  [ Profile ](https://github.com/rath23)
  ========
 
-### Solution of Wave Array
+### Solution Subarray sum equals to k
 #### Time Complexity - O (n^2)
 #### Space Complexity - O(1)
 
