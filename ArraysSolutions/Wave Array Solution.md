@@ -5,7 +5,7 @@
 #### Time Complexity - O (n)
 #### Space Complexity - O(1)
 
-```java: 
+```java 
 class Solution {
   
     public static void convertToWave(int n, int[] a) {
