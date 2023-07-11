@@ -1,7 +1,4 @@
- [ Profile ](https://github.com/rath23)
- ========
-
-### Solution of Wave Array
+## Solution of Wave Array
 #### Time Complexity - O (n)
 #### Space Complexity - O(1)
 
@@ -19,3 +16,6 @@ class Solution {
     }
 }
 ```
+<div  align="right"> 
+   Contributed By <a href="https://github.com/rath23"> Muneer Ahmad</a>
+</div>
