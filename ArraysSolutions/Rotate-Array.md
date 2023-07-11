@@ -1,7 +1,4 @@
- [ Profile ](https://github.com/rath23)
- ========
-
-### Solution of Rotate-Array
+## Solution of Rotate-Array
 #### Time Complexity - O (n)
 #### Space Complexity - O(1)
 
@@ -26,3 +23,6 @@ class Solution {
     }
 }
 ```
+<div  align="right"> 
+   Contribution By <a href="https://github.com/rath23"> Muneer Ahmad</a>
+</div>

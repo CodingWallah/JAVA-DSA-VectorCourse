@@ -1,7 +1,4 @@
- [ Profile ](https://github.com/rath23)
- ========
-
-### Solution of Subarray sum equals to k
+## Solution of Subarray sum equals to k
 #### Time Complexity - O (n^2)
 #### Space Complexity - O(1)
 
@@ -22,3 +19,6 @@ class Solution {
     }
 }
 ```
+<div  align="right"> 
+   Contribution By <a href="https://github.com/rath23"> Muneer Ahmad</a>
+</div>
