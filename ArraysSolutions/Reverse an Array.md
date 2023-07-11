@@ -18,5 +18,5 @@ class Solution {
 }
 ```
 <div  align="right"> 
-   Contribution By <a href="https://github.com/rath23"> Muneer Ahmad</a>
+   Contributed By <a href="https://github.com/rath23"> Muneer Ahmad</a>
 </div>
