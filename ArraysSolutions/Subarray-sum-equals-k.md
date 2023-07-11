@@ -1,4 +1,3 @@
-## Solution of Subarray sum equals to k
 #### Time Complexity - O (n^2)
 #### Space Complexity - O(1)
 
