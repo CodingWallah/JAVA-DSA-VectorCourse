@@ -1,7 +1,5 @@
- [ Profile ](https://github.com/rath23)
- ========
 
-### Solution of Missing-Number
+## Solution of Missing-Number
 #### Time Complexity - O (n)
 #### Space Complexity - O(1)
 
@@ -17,5 +15,7 @@ class Solution {
      return sunOfNaturalNumbers-sumOfArrayNum;
     }
 }
-}
 ```
+<div  align="right"> 
+   Contributed By <a href="https://github.com/rath23"> Muneer Ahmad</a>
+</div>
