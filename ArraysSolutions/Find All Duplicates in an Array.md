@@ -2,7 +2,7 @@
 
 ### First Approach 
 
-#### Time Complexity - O (n)
+#### Time Complexity - O (nlogn)
 
 #### Space Complexity - O(1)
 
