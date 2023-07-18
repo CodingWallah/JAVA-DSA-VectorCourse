@@ -1,10 +1,10 @@
 
 ## Square Pattern Solution Number 1.3
 
-A B C D E
-A B C D E
-A B C D E
-A B C D E
+A B C D E  <br />
+A B C D E  <br />
+A B C D E  <br />
+A B C D E  <br />
 
 ```java
     public static void main(String args[]) {
