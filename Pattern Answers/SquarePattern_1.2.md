@@ -1,11 +1,11 @@
 
 ## Square Pattern Solution Number 1.2
 
-1 2 3 4 5 
-1 2 3 4 5 
-1 2 3 4 5 
-1 2 3 4 5 
-1 2 3 4 5
+1 2 3 4 5  <br />
+1 2 3 4 5  <br />
+1 2 3 4 5  <br />
+1 2 3 4 5  <br />
+1 2 3 4 5  <br />
 
 ```java
    public static void main(String args[]) {
