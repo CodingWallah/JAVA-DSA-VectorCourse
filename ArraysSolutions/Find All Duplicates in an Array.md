@@ -1,6 +1,6 @@
 ## Solution of Find All Duplicates in an Array
 
-#### Time Complexity - O (n)
+#### Time Complexity - O (nlogn)
 
 #### Space Complexity - O(1)
 
