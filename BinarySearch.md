@@ -9,7 +9,7 @@ Find Valid Mountain Array | [Leetcode](https://leetcode.com/problems/valid-mount
 Find Peak Element in Mountin Array (Easy ) | [Leetcode](https://leetcode.com/problems/find-peak-element/) | | | Binary Search
 Find Peak Index in Mountain Array (Medium) | [Leetcode](https://leetcode.com/problems/peak-index-in-a-mountain-array/) | | | Binary Search
 Find in Mountain Array (Hard)| [Leetcode](https://leetcode.com/problems/find-in-mountain-array/description/) | | | Binary Search
-Find Longest Mountain in Array | [Leetcode](https://leetcode.com/problems/longest-mountain-in-array/) | | | Binary Search
+Find Longest Mountain in Array | [Leetcode](https://leetcode.com/problems/longest-mountain-in-array/) | | | 2 Pointer Approach
 
 ### Sorted Rotated Arrays Questions Link ❤️‍🔥
 | Array Questions  | Practice Link | Code Solutions | Video Solutions | HINT
