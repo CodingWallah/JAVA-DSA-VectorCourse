@@ -1,6 +1,6 @@
 # Arrays-DSA-Coding-Questions 🚀
 Arrays are one of the most fundamental and widely used data structures in programming.
-These questions test your ability to apply various techniques such as hashing, sorting, binary search, two pointers, sliding window, divide and conquer, dynamic programming, etc. 
+These questions test your ability to apply techniques such as hashing, sorting, binary search, two-pointers, sliding window, divide and conquer, dynamic programming, etc. 
 
 ## Foundation Questions ❤️
 | Array Questions  | Practice Link | Code Solutions | Video Solutions | HINT
@@ -12,12 +12,13 @@ Rotate Array | [Leetcode](https://Leetcode.com/problems/rotate-array/) |  | [Vid
 Find duplicates in an array| [Leetcode](https://Leetcode.com/problems/find-all-duplicates-in-an-array/) | 
 Remove all occurrences of Given Number | [Leetcode](https://Leetcode.com/problems/remove-element/)
 Remove Duplicates from Sorted Array | [Leetcode](https://Leetcode.com/problems/remove-duplicates-from-sorted-array/)
-Move all zeroes to end of array| [Leetcode](https://Leetcode.com/problems/move-zeroes/)
+Move all zeroes to the end of the array| [Leetcode](https://Leetcode.com/problems/move-zeroes/)
 Sort an array of 0s, 1s and 2s | [Leetcode](https://Leetcode.com/problems/sort-colors/submissions/) | 
 Intersection of two arrays| [Leetcode](https://Leetcode.com/problems/intersection-of-two-arrays/)
 Reverse an array| [Leetcode](https://Leetcode.com/problems/reverse-string/)
-Swapping Elements in an array|
+Swapping Elements in an Array |
 Remove Min and Max in an Array| [Leetcode](https://leetcode.com/problems/removing-minimum-and-maximum-from-array/)
+Two Sum | [Leetcode](https://leetcode.com/problems/two-sum/)
 
 ## Medium Questions ❤️‍🔥
 | Array Questions  | Practice Link | Code Solutions | Video Solutions | HINT
