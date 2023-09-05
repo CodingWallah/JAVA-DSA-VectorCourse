@@ -12,7 +12,7 @@
  -|-|-
 Patterns | [Video](https://www.youtube.com/live/-Pq1XjcEgw8?feature=share) | [Questions](https://github.com/CodingWallah/JAVA-DSA-VectorCourse/blob/main/PatternQuestions.md)
 Arrays | [Video](https://www.youtube.com/live/tjkXeEN8yFc?feature=share) | [Questions](https://github.com/CodingWallah/JAVA-DSA-VectorCourse/blob/main/ArrayQuestions.md)
-
+Binary Search | [Video](https://youtu.be/qvXZ_e71B2s?si=je3CtmeFsCMoXl_U) | [Questions](https://github.com/CodingWallah/JAVA-DSA-VectorCourse/blob/main/BinarySearch.md)
 
 <pre>
 JAVA DSA Vector Live is an online Interactive live course 👨🏼‍🏫 with provinding Real-LIFE offline Classrom Feeling ❤️ 
