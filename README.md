@@ -1,7 +1,4 @@
 # <pre>                  JAVA-DSA-Vector-Course 🔥 </pre>
-## Free live lectures available for our course for those who can't afford it. Paid members receive additional benefits listed on our Discord server.
-
-## <pre>      Topic List </pre>
 | Topics | Video Link | Questions
  -|-|-
 Patterns | [Video](https://www.youtube.com/live/-Pq1XjcEgw8?feature=share) | [Questions](https://github.com/CodingWallah/JAVA-DSA-VectorCourse/blob/main/PatternQuestions.md)
