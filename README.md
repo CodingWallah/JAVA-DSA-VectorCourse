@@ -1,18 +1,18 @@
 # <pre>                  JAVA-DSA-Vector-Course 🔥 </pre>
 ## Free live lectures available for our course for those who can't afford it. Paid members receive additional benefits listed on our Discord server.
 
-- 🧑🏼‍💻 Do you want to master data structures and algorithms in Java and ace your coding interviews ❓
-- 👨🏼‍🏫 Do you want to learn from experienced instructor with live coding sessions and help you solve challenging problems❓
-- ❤️ Do you want to join a community of learners who will support you and Motivate you along the way ❓
-
-### If your ans is YES to any of above questions, 👉🏼 then JAVA DSA Vector Course for you ❤️
-
 ## <pre>      Topic List </pre>
 | Topics | Video Link | Questions
  -|-|-
 Patterns | [Video](https://www.youtube.com/live/-Pq1XjcEgw8?feature=share) | [Questions](https://github.com/CodingWallah/JAVA-DSA-VectorCourse/blob/main/PatternQuestions.md)
 Arrays | [Video](https://www.youtube.com/live/tjkXeEN8yFc?feature=share) | [Questions](https://github.com/CodingWallah/JAVA-DSA-VectorCourse/blob/main/ArrayQuestions.md)
 Binary Search | [Video](https://youtu.be/qvXZ_e71B2s?si=je3CtmeFsCMoXl_U) | [Questions](https://github.com/CodingWallah/JAVA-DSA-VectorCourse/blob/main/BinarySearch.md)
+
+- 🧑🏼‍💻 Do you want to master data structures and algorithms in Java and ace your coding interviews ❓
+- 👨🏼‍🏫 Do you want to learn from experienced instructor with live coding sessions and help you solve challenging problems❓
+- ❤️ Do you want to join a community of learners who will support you and Motivate you along the way ❓
+
+### If your ans is YES to any of above questions, 👉🏼 then JAVA DSA Vector Course for you ❤️
 
 <pre>
 JAVA DSA Vector Live is an online Interactive live course 👨🏼‍🏫 with provinding Real-LIFE offline Classrom Feeling ❤️ 
