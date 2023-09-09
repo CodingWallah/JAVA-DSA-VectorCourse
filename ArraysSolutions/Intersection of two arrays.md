@@ -16,8 +16,8 @@ class Solution {
                 if(nums1[i]==nums2[j]){
 
                     hs.add(nums2[j]);
-}
-}
+    }
+  }
 }
 
         int []nums3 = new int[hs.size()];
