@@ -4,6 +4,7 @@
 Patterns | [Video](https://www.youtube.com/live/-Pq1XjcEgw8?feature=share) | [Questions](https://github.com/CodingWallah/JAVA-DSA-VectorCourse/blob/main/PatternQuestions.md)
 Arrays | [Video](https://www.youtube.com/live/tjkXeEN8yFc?feature=share) | [Questions](https://github.com/CodingWallah/JAVA-DSA-VectorCourse/blob/main/ArrayQuestions.md)
 Binary Search | [Video](https://youtu.be/qvXZ_e71B2s?si=je3CtmeFsCMoXl_U) | [Questions](https://github.com/CodingWallah/JAVA-DSA-VectorCourse/blob/main/BinarySearch.md)
+LinkedList | [Video](https://youtu.be/o3bgJAkKTdU?si=aau7DOsBKeryBZGs) | [Questions](https://github.com/CodingWallah/JAVA-DSA-VectorCourse/blob/main/LinkedList.md)
 
 - 🧑🏼‍💻 Do you want to master data structures and algorithms in Java and ace your coding interviews ❓
 - 👨🏼‍🏫 Do you want to learn from experienced instructor with live coding sessions and help you solve challenging problems❓
